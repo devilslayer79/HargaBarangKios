@@ -10,8 +10,8 @@ Es Batu = 3000
 
 Fanta = 7000
 
-Teh Kotak = 5000
+Teh Kotak = 9000
 
-Pepsodent = 5000
+Pepsodent = 10000
 
 Molto = 1000
