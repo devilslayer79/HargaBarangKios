@@ -11,3 +11,5 @@ Es Batu = 2000
 Fanta = 5000
 
 Teh Kotak = 5000
+
+Pepsodent = 5000
