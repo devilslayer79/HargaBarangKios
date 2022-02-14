@@ -13,3 +13,5 @@ Fanta = 5000
 Teh Kotak = 5000
 
 Pepsodent = 5000
+
+Molto = 1000
