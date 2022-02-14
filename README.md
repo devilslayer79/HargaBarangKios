@@ -14,4 +14,4 @@ Teh Kotak = 9000
 
 Pepsodent = 10000
 
-Molto = 1000
+Molto = 3000
